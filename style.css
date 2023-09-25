@@ -1,0 +1,12 @@
+.nav-link {
+    color: black;
+    font-weight:400;
+    height: 100%;
+    padding: auto;
+}
+
+.active{
+    background:bisque;
+
+}
+
